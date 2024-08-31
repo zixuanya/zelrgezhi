@@ -8,11 +8,11 @@ Wélcömā to My répöñsitory
 
 ### 关于我 / About me
 
-🏜️ 我是一只来自沙漠的沙原狼，擅长编写 JavaScript 代码 🐺💻。我对编程充满热情，尤其是在网页前端领域。  
+🏜️ 我是一只来自沙漠的沙原小狼，擅长编写 JavaScript 代码 🐺💻。我对编程充满热情，尤其是在网页前端领域。  
 
 I am a sand wolf from the desert, skilled in writing JavaScript code 🐺💻. I am passionate about programming, especially in the field of web frontend development.
 
-🌍 我对网络技术特别感兴趣，包括 BGP 等，虽然我在 DN42 网络中拥有一个 AS（AS4242422744），但我还没有获得真实的公网 AS。  
+🌍 我对网络技术特别感兴趣，包括 BGP 等，虽然我在 DN42 网络中拥有一个 DN42 AS（AS4242422744），但我还没有获得真实的公网 AS。  
 
 I have a strong interest in network technologies, including BGP. Although I have an AS (AS4242422744) in the DN42 network, I do not yet have a real public AS.
 
