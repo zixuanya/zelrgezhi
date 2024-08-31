@@ -37,6 +37,7 @@ I am proficient in JavaScript and can develop frontend web pages, mainly using V
 - ![推特图标](https://img.icons8.com/material-outlined/24/000000/twitter.png) [推特](https://x.com/linmonfur)
 - ![Telegram图标](https://img.icons8.com/material-outlined/24/000000/telegram-app.png) [Telegram](https://t.me/linmonfur)
 - ![WhatsApp图标](https://img.icons8.com/material-outlined/24/000000/whatsapp.png) [WhatsApp](https://wa.me/+37159732312)
+- ![NodeSeek图标](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NodeSeek_Logo.svg/120px-NodeSeek_Logo.svg.png) [NodeSeek](https://www.nodeseek.com/space/15567#/general)
 - 📞 **电话号码（美国）**: +1 520-333-7988
 - [![Telegram图标](https://img.icons8.com/material-outlined/24/000000/telegram-app.png)点击即可到达我的**Telegram**频道](https://t.me/zezhiya_channel)
 - [![Telegram图标](https://img.icons8.com/material-outlined/24/000000/telegram-app.png)点击即可到达我的**Telegram**群组](https://t.me/zezhi_group)
